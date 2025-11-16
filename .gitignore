@@ -1,0 +1,34 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]rofileData/
+UserSettings/
+MemoryCaptures/
+Recordings/
+Assets/AssetStoreTools*
+
+# Visual Studio cache
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Backup
+*.bak
+*.backup
+
+# Collaborate
+.collab
+
+# Crashlytics
+crashlytics-build.properties
